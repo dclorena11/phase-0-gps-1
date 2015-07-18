@@ -14,3 +14,6 @@
 - git checkout -b branch-name : create a new branch and switch to it.
 
 - git checkout --help : open help menu for git commands related to "git checkout".
+
+
+HEY this is new
