@@ -16,4 +16,4 @@
 - git checkout --help : open help menu for git commands related to "git checkout".
 
 
-HEY this is new
+HEY this is new. Lorena's newest change
